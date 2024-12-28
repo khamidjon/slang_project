@@ -1,0 +1,13 @@
+name: app_localization
+description: This package contains app localization.
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  slang: ^4.4.0
+  slang_flutter: ^4.4.0
+
+dev_dependencies:
+  build_runner: ^2.4.14
+  slang_build_runner: ^4.4.0
